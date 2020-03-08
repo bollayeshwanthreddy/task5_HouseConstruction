@@ -1,0 +1,6 @@
+[INFO ] 2020-03-08 10:47:29.419 [main] InterestImpl - Enter principle, time and rate of interest
+
+[INFO ] 2020-03-08 10:48:53.505 [main] InterestImpl - Enter principle, time and rate of interest
+
+[INFO ] 2020-03-08 10:48:57.044 [main] InterestImpl - Simple interest for p:2.0 t: 3.0 r 4.0 is 0.24
+[INFO ] 2020-03-08 10:48:57.053 [main] InterestImpl - Compound interest for p:2.0 t: 3.0 r 4.0 is 0.24972800000000017
